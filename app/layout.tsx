@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#e85300]`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#e85300] md:bg-[url(/img/SP_BACKGROUND.webp)] md:bg-no-repeat`}
       >
         <Header />
         <main>{children}</main>
