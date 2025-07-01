@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <div className="max-w-[1230px] mx-auto mt-10 md:bg-[#181B49]/50 md:py-10 md:px-5">
+      <div className="max-w-[1230px] mx-auto mt-10 md:bg-[#581f00] md:py-10 md:px-5">
         <div>
           <h1 className="text-white text-2xl font-bold uppercase text-center md:text-4xl">
             SwertePlus New Raffle Group
