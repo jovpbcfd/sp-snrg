@@ -134,7 +134,7 @@ export default function Home() {
           </div>
           <div className="text-center md:text-left">
             <h2 className="text-yellow-300 font-bold text-2xl md:text-4xl md:font-bold">
-              Join the Lucky Draw
+              Join the New Raffle Group
               <span className="block">Scan Now!</span>
             </h2>
             <p className="text-white mt-2 md:mt-1">
