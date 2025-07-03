@@ -34,7 +34,7 @@ export default function Header() {
                 SIGNUP
               </Link> */}
               <Link
-                href="https://panalobet200.com/ph/tl"
+                href="https://www.swerteplus.com/"
                 className="bg-[linear-gradient(180deg,_#fc0a0d_0%,_#d80000_41.83%,_#ed6600_100%)] px-4 py-2 rounded-full shadow-md text-center
                             transition-transform transform hover:scale-105 duration-300 w-full
                             md:w-[150px]
